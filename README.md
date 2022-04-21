@@ -1,4 +1,4 @@
-# Hey there, I'm Satvik <p align = "right"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Satvik </p>
 - 🔭 I’m currently working on various Open Source Projects
 - 🌱 I’m currently learning about Graphs in ML
 - 👯 I’m looking to collaborate on any cool project.
