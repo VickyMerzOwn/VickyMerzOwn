@@ -6,7 +6,7 @@
 </p> 
 
 - 🔭 I’m currently working on various Open Source Projects
-- 🌱 I’m currently learning about Graphs in ML
+- 🌱 I’m currently learning about Source Code Archival
 - 👯 I’m looking to collaborate on any cool project.
 - 📫 How to reach me: Open an issue [here](https://github.com/VickyMerzOwn/VickyMerzOwn/issues)
 - 💬 Wanna chat? I ❤️LOOOVEE❤️ chatting about Computers
