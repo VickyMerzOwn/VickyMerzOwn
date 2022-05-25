@@ -1,4 +1,10 @@
 # <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Satvik </p>
+<p align="center">
+    <img src="https://badges.pufler.dev/visits/VickyMerzOwn/VickyMerzOwn"/>
+    <img src="https://badges.pufler.dev/repos/VickyMerzOwn"/>
+    <img src="https://badges.pufler.dev/commits/monthly/VickyMerzOwn" />
+</p> 
+
 - 🔭 I’m currently working on various Open Source Projects
 - 🌱 I’m currently learning about Graphs in ML
 - 👯 I’m looking to collaborate on any cool project.
