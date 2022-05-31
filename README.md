@@ -5,9 +5,9 @@
     <img src="https://badges.pufler.dev/commits/monthly/VickyMerzOwn" />
 </p> 
 
-- 🔭 I’m currently working on various Open Source Projects
+- 🔭 I’m currently building FOSS at Software Heritage
 - 🌱 I’m currently learning about Source Code Archival
-- 👯 I’m looking to collaborate on any cool project.
+- 👯 I’m looking to collaborate on any cool project
 - 📫 How to reach me: Open an issue [here](https://github.com/VickyMerzOwn/VickyMerzOwn/issues)
 - 💬 Wanna chat? I ❤️LOOOVEE❤️ chatting about Computers
 - 😄 Pronouns: He / Him / His
