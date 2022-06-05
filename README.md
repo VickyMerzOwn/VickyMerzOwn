@@ -1,6 +1,5 @@
 # <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Satvik </p>
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/VickyMerzOwn/VickyMerzOwn"/>
     <img src="https://badges.pufler.dev/repos/VickyMerzOwn"/>
     <img src="https://badges.pufler.dev/commits/monthly/VickyMerzOwn" />
 </p> 
