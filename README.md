@@ -5,8 +5,8 @@
 </p> 
 
 - 🔭 I’m currently building FOSS at Software Heritage
-- 🌱 I’m currently learning about Source Code Archival
-- 👯 I’m looking to collaborate on any cool project
+- 🌱 I’m currently learning about Linked Data Technologies and Cryptography
+- 👯 I’m open to collaboration on any cool project(s)
 - 📫 How to reach me: Open an issue [here](https://github.com/VickyMerzOwn/VickyMerzOwn/issues)
 - 💬 Wanna chat? I ❤️LOOOVEE❤️ chatting about Computers
 - 😄 Pronouns: He / Him / His
