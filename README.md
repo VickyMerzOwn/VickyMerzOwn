@@ -3,7 +3,6 @@
     <img src="https://badges.pufler.dev/repos/VickyMerzOwn"/>
     <img src="https://badges.pufler.dev/commits/monthly/VickyMerzOwn" />
 </p> 
--->
 
 - 🔭 I’m currently building FOSS at Software Heritage
 - 🌱 I’m currently learning about Linked Data Technologies and Cryptography
@@ -11,6 +10,7 @@
 - 📫 How to reach me: Open an issue [here](https://github.com/VickyMerzOwn/VickyMerzOwn/issues)
 - 💬 Wanna chat? I ❤️LOOOVEE❤️ chatting about Computers
 - 😄 Pronouns: He / Him / His
+-->
 
 <!-- # <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Satvik </p>
 <p align="center">
